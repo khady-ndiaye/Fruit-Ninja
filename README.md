@@ -47,6 +47,6 @@ This project is a Python-based Fruit Ninja game built using Pygame. It simulates
 Contributions are welcome! If you find any bugs or have ideas for new features, feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project free of rights and can be used, modified, and distributed by anyone. No restrictions apply - .
 
 ---
